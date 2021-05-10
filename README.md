@@ -6,5 +6,5 @@
 **Thanks, Abdelrahman-BE**
 
 ---
-![Design preview for the Profile card component coding challenge](assents/game.png)
-![Design preview for the Profile card component coding challenge](assents/game1.png)
+![Design preview for the Profile card component coding challenge](/assents/game.png)
+![Design preview for the Profile card component coding challenge](/assents/game1.png)
