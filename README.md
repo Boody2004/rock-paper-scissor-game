@@ -1,5 +1,5 @@
 # Rock Pape Scissor Game BE
-## go to website [rock-paper-scissor-game-BE](#)
+## go to website [rock-paper-scissor-game-be](#)
 <b>coded by [Boody-BE](https://github.com/Boody2004/rock-paper-scissor-game-BE)</b>
 
 **HAVE FUN 👌**
